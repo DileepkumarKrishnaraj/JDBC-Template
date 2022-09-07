@@ -1,0 +1,5 @@
+/home/samcouser/Documents/JDBCTemplate/src/main/java/com/samco/JDBCTemplate/JdbcTemplateApplication.java
+/home/samcouser/Documents/JDBCTemplate/src/main/java/com/samco/JDBCTemplate/model/BookList.java
+/home/samcouser/Documents/JDBCTemplate/src/main/java/com/samco/JDBCTemplate/repository/JdbcBookRepository.java
+/home/samcouser/Documents/JDBCTemplate/src/main/java/com/samco/JDBCTemplate/repository/BookRepository.java
+/home/samcouser/Documents/JDBCTemplate/src/main/java/com/samco/JDBCTemplate/controller/BookController.java

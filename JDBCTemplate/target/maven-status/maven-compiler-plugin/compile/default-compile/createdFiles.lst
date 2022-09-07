@@ -1,0 +1,5 @@
+com/samco/JDBCTemplate/controller/BookController.class
+com/samco/JDBCTemplate/model/BookList.class
+com/samco/JDBCTemplate/JdbcTemplateApplication.class
+com/samco/JDBCTemplate/repository/JdbcBookRepository.class
+com/samco/JDBCTemplate/repository/BookRepository.class
